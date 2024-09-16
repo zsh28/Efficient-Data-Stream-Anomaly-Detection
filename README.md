@@ -98,3 +98,6 @@ pip install -r requirements.txt
   - [Anomaly Detection Techniques Summary](https://www.kaggle.com/code/praxitelisk/anomaly-detection-techniques-summary/notebook#Z-Score-anomalies-(Statistical-Method))
   - [Practical Approach to Z-Score Anomalies](https://medium.com/@akashsri306/detecting-anomalies-with-z-scores-a-practical-approach-2f9a0f27458d)
 
+### Demo Video:
+
+[![Watch the video](https://img.youtube.com/vi/29fe_smfTpo/0.jpg)](https://www.youtube.com/watch?v=29fe_smfTpo)
